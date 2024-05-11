@@ -1,0 +1,1 @@
+<a href="{{$herf}}" class="btn  btn-{{$color}}"> {{!! $text !!}}</a>
